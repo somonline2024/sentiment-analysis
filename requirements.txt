@@ -3,4 +3,5 @@ pandas
 transformers
 seaborn
 matplotlib
+openpyxl
 
